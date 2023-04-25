@@ -1,7 +1,7 @@
 ## [🔙 my-profile-views-counter](https://github.com/viablu/my-profile-views-counter)
 
-### :octocat: [my-profile-views-counter](https://github.com/viablu/my-profile-views-counter)
-![Image of my-profile-views-counter](https://github.com/viablu/my-profile-views-counter/blob/master/graph/509608177/large/year.png)
+### :octocat: [viablu](https://github.com/viablu/viablu)
+![Image of my-profile-views-counter](https://github.com/viablu/my-profile-views-counter/blob/master/graph/507967722/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2023/4/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>3</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2022/11/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2022/9/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -111,10 +111,10 @@
 			<code>2022/8/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -122,10 +122,10 @@
 			<code>2022/7/1</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>160</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-profile-views-counter](https://github.com/viablu/my-profile-views-counter/blob/master/svg/509608177/badge.svg)](https://github.com/viablu/my-profile-views-counter/blob/master/readme/509608177/week.md)
+[![Image of my-profile-views-counter](https://github.com/viablu/my-profile-views-counter/blob/master/svg/507967722/badge.svg)](https://github.com/viablu/my-profile-views-counter/blob/master/readme/507967722/week.md)
 ```readme
-[![Image of my-profile-views-counter](https://github.com/viablu/my-profile-views-counter/blob/master/svg/509608177/badge.svg)](https://github.com/viablu/my-profile-views-counter/blob/master/readme/509608177/week.md)
+[![Image of my-profile-views-counter](https://github.com/viablu/my-profile-views-counter/blob/master/svg/507967722/badge.svg)](https://github.com/viablu/my-profile-views-counter/blob/master/readme/507967722/week.md)
 ```
 ### Header
-# my-profile-views-counter [<img alt="Image of my-profile-views-counter" src="https://github.com/viablu/my-profile-views-counter/blob/master/graph/509608177/small/year.png" height="20">](https://github.com/viablu/my-profile-views-counter/blob/master/readme/509608177/year.md)
+# viablu [<img alt="Image of my-profile-views-counter" src="https://github.com/viablu/my-profile-views-counter/blob/master/graph/507967722/small/year.png" height="20">](https://github.com/viablu/my-profile-views-counter/blob/master/readme/507967722/year.md)
 ```readme
-# my-profile-views-counter [<img alt="Image of my-profile-views-counter" src="https://github.com/viablu/my-profile-views-counter/blob/master/graph/509608177/small/year.png" height="20">](https://github.com/viablu/my-profile-views-counter/blob/master/readme/509608177/year.md)
+# viablu [<img alt="Image of my-profile-views-counter" src="https://github.com/viablu/my-profile-views-counter/blob/master/graph/507967722/small/year.png" height="20">](https://github.com/viablu/my-profile-views-counter/blob/master/readme/507967722/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

@@ -35,9 +35,41 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/viablu/my-profile-views-counter/raw/master/graph/509608177/small/year.png" height="20"> 187
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/viablu/my-profile-views-counter/tree/master/readme/632445122/year.md">
+				xorcat
+			</a>
+		</td>
+		<td>
+			2023/4/22 1:31 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/viablu/my-profile-views-counter/raw/master/graph/632445122/small/year.png" height="20"> 6
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/viablu/my-profile-views-counter/tree/master/readme/507967722/year.md">
+				viablu
+			</a>
+		</td>
+		<td>
+			2023/4/22 1:31 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/viablu/my-profile-views-counter/raw/master/graph/507967722/small/year.png" height="20"> 3
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/4/25 12:14 PM UTC</i></small>
+<small><i>Last updated on 2023/4/25 1:31 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
